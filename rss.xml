@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Niada Cradle Photography]]></title>
         <description><![CDATA[Niada Cradle Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/niada-cradle-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 22:02:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Dec 2015 00:09:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/niada-cradle-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Niada Cradle Photography]]></title>
+            <description><![CDATA[<article><h1>Niada Cradle Photography</h1><p>Main Title</p></article>]]></description>
+            <link>https://thegrid.ai/niada-cradle-photography/niada-cradle-photography/index.html</link>
+            <guid isPermaLink="false">fce6cd42-0d78-4ad6-986e-7b68d7335c16</guid>
+            <pubDate>Tue, 22 Dec 2015 00:09:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome to Niada Cradle Photography.</p>]]></description>
-            <link>undefined1ae5511f-cefe-41ac-be01-daf4ce88cd9e/index.html</link>
+            <link>https://thegrid.ai/niada-cradle-photography/1ae5511f-cefe-41ac-be01-daf4ce88cd9e/index.html</link>
             <guid isPermaLink="false">1ae5511f-cefe-41ac-be01-daf4ce88cd9e</guid>
             <pubDate>Mon, 21 Dec 2015 22:02:21 GMT</pubDate>
         </item>
